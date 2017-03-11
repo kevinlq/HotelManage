@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/add-line_horizontal.png</file>
+        <file>image/add-line_vertical.png</file>
+        <file>image/array_down.png</file>
+        <file>image/back.png</file>
+        <file>image/checkbox_checked.png</file>
+        <file>image/checkbox_unchecked.png</file>
+        <file>image/error.png</file>
+        <file>image/Font Awesome Cheatsheet.png</file>
+        <file>image/fontawesome-webfont.ttf</file>
+        <file>image/info.png</file>
+        <file>image/qt_zh_CN.qm</file>
+        <file>image/question.png</file>
+        <file>image/radio_normal.png</file>
+        <file>image/radio_selected.png</file>
+        <file>image/sub-line_horizontal.png</file>
+        <file>image/sub-line_vertical.png</file>
+        <file>image/delete.png</file>
+        <file>image/update.png</file>
+        <file>image/blue.css</file>
+        <file>image/room/Deluxe Suite.jpg</file>
+        <file>image/room/double room.jpg</file>
+        <file>image/room/single room.jpg</file>
+        <file>image/room/back.jpg</file>
+        <file>image/find.png</file>
+        <file>image/roomnum/1.png</file>
+        <file>image/roomnum/2.png</file>
+        <file>image/roomnum/3.png</file>
+        <file>image/roomnum/4.png</file>
+        <file>image/roomnum/5.png</file>
+        <file>image/roomnum/6.png</file>
+        <file>image/roomnum/7.png</file>
+        <file>image/roomnum/8.png</file>
+        <file>image/roomnum/9.png</file>
+        <file>image/roomnum/layout.png</file>
+        <file>image/roomtype/double.png</file>
+        <file>image/roomtype/luxury.png</file>
+        <file>image/roomtype/president.png</file>
+        <file>image/roomtype/signal.png</file>
+        <file>image/excel.png</file>
+        <file>image/print.png</file>
+        <file>image/select.png</file>
+        <file>image/house/1.jpg</file>
+        <file>image/house/2.jpg</file>
+        <file>image/house/3.jpg</file>
+        <file>image/house/4.jpg</file>
+        <file>image/house/5.jpg</file>
+        <file>image/house/6.jpg</file>
+        <file>image/house/7.jpg</file>
+        <file>image/house/8.jpg</file>
+        <file>image/house/9.jpg</file>
+        <file>image/house/10.jpg</file>
+        <file>image/house/11.jpg</file>
+        <file>image/database/database.png</file>
+        <file>help/help.CHM</file>
+    </qresource>
+</RCC>
