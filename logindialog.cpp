@@ -37,7 +37,7 @@ void LoginDialog::InitForm()
     IconHelper::Instance()->SetIcon(ui->btnMenu_Min, QChar(0xf068), 10);
     IconHelper::Instance()->SetIcon(ui->btnMenu, QChar(0xf0c9), 10);
     IconHelper::Instance()->SetIcon(ui->lab_Ico, QChar(0xf015), 12);
-    ui->labCompany->setText(tr("技术支持：太原工业学院--计算机工程系"));
+    ui->labCompany->setText(tr("技术支持：XXX"));
     //ui->radioButtonAdmin->setCheckable(true);
 
     ui->btnLogin->setToolTip(tr("登录"));
