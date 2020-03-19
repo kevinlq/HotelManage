@@ -21,7 +21,8 @@
 */
 static bool createConnection()
 {
-    QTextCodec::setCodecForTr(QTextCodec::codecForLocale());
+    //QTextCodec::setCodecForTr(QTextCodec::codecForLocale());
+
     QSqlDatabase db;
     if(QSqlDatabase::contains("qt_sql_default_connection"))
         db = QSqlDatabase::database("qt_sql_default_connection");
